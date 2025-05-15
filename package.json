@@ -15,5 +15,9 @@
     "url": "https://github.com/bhawani-prajapat2006/Learning_Socket.io/issues"
   },
   "homepage": "https://github.com/bhawani-prajapat2006/Learning_Socket.io#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
 }
