@@ -1,0 +1,19 @@
+{
+  "name": "socket_chat_example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhawani-prajapat2006/Learning_Socket.io.git"
+  },
+  "author": "bhawani2006",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhawani-prajapat2006/Learning_Socket.io/issues"
+  },
+  "homepage": "https://github.com/bhawani-prajapat2006/Learning_Socket.io#readme",
+  "description": ""
+}
